@@ -103,6 +103,6 @@ By studying these notebooks, you will learn:
 
 Adhikari Sujan
 
-Machine Learning and Data Science 
+Machine Learning & Data Science 
 
 Focused on understanding algorithms from first principles and implementing them from scratch using Python.
